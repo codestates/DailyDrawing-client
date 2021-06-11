@@ -46,15 +46,12 @@ Wiki: 👉 https://github.com/codestates/DailyDrawing-client/wiki
 ## 🛠 Tech Stack
 ![daily drawing](https://user-images.githubusercontent.com/71122594/120672623-70847200-c4cd-11eb-8a71-640c8c374c29.jpg)
 
-
-## 🔧 Front-end
-
-
-## 🔨 Back-end
+## 🔨 Work-flow
 ![daily drawing (1)](https://user-images.githubusercontent.com/71122594/120681363-3ff50600-c4d6-11eb-8129-757b9d311bff.jpg)
 
+## 🔧 Database-schema
 
-
+![Pasted Graphic](https://user-images.githubusercontent.com/71182382/118443066-6a993d80-b726-11eb-834b-e1227e067695.png)
 
 ## 🙆🏻‍♂️ Developers
 
